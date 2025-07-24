@@ -147,10 +147,10 @@ const Achievements: React.FC = () => {
                 </h4>
                 <div className="grid grid-cols-2 gap-6">
                   {[
-                    { value: '750+', label: 'Problems Solved', gradient: 'from-indigo-600 to-violet-600' },
-                    { value: '15+', label: 'Projects Built', gradient: 'from-emerald-600 to-teal-600' },
+                    { value: '800+', label: 'Problems Solved', gradient: 'from-indigo-600 to-violet-600' },
+                    { value: '5+', label: 'Projects Built', gradient: 'from-emerald-600 to-teal-600' },
                     { value: '3', label: 'Certifications', gradient: 'from-orange-600 to-red-600' },
-                    { value: '1549', label: 'Max Rating', gradient: 'from-emerald-600 to-teal-600' }
+                    { value: '1585', label: 'Max Rating', gradient: 'from-emerald-600 to-teal-600' }
                   ].map((stat, index) => (
                     <div key={index} className="group/stat relative">
                       <div className={`absolute inset-0 bg-gradient-to-r ${stat.gradient} rounded-2xl blur opacity-20 group-hover/stat:opacity-40 transition-opacity duration-300`}></div>

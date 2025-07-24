@@ -81,7 +81,7 @@ export const portfolioData = {
     },
     {
       title: "LeetCode Biweekly Contest 156",
-      description: "Ranked 5473 out of 21,511 participants",
+      description: "Ranked 3657 out of 31,599 participants",
       date: "2025"
     }
   ],
@@ -90,8 +90,8 @@ export const portfolioData = {
     {
       platform: "LeetCode",
       username: "karnam_gagan",
-      stats: "750+ problems solved",
-      maxRating: "1549",
+      stats: "800+ problems solved",
+      maxRating: "1585",
       link: "https://leetcode.com/u/karnam_gagan/"
     },
     {
